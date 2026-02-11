@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="[https://github.com/Avacon00/Retro-MusicBot/blob/main/components/MusicBot.png)" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/Avacon00/Retro-MusicBot/blob/main/components/MusicBot.png" />
 </div>
 
 This contains everything you need to run your app locally.
